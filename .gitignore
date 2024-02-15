@@ -130,4 +130,7 @@ dmypy.json
 
 # Generated pictures
 pictures/
+
 GTSRB/
+.history/
+data/
